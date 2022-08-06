@@ -1,8 +1,5 @@
 # Open source datasets for Cross-Scene Hyperspectral Image Classification
 
-
-Reading [知乎-Yammo](https://zhuanlan.zhihu.com/p/550491893)
-
 **Houston datasets:** Houston 2013 and Houston 2018.  | Thanks [Xudong Zhao](https://github.com/xudongzhao461) for his work in producing the Houston data.
 
 download: [坚果云](https://www.jianguoyun.com/p/DSDqQfIQncXpChjy9dAEIAA) or [Google-drive](https://drive.google.com/drive/folders/1N9czbGBoJXVHycuXoTq8ba32eebydYPp?usp=sharing)
@@ -26,6 +23,7 @@ download: [坚果云](https://www.jianguoyun.com/p/Daiu5IsQncXpChj99dAEIAA) or [
 
 download: [坚果云](https://www.jianguoyun.com/p/DT4z7ugQncXpChj19dAEIAA) or [Google-drive](https://drive.google.com/drive/folders/13T47hw6RZnz1_CE7gG1QgYIYS2SDJ5DD?usp=sharing)
 
+<p align='center'>
   <img src='figure/hyrank.png' width="600px">
   <img src='figure/hyrank1.png' width="400px">
 </p>
