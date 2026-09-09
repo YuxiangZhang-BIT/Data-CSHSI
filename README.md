@@ -28,6 +28,16 @@ download: [坚果云](https://www.jianguoyun.com/p/DT4z7ugQncXpChj19dAEIAA) or [
   <img src='figure/hyrank1.png' width="400px">
 </p>
 
+**Natural willow datasets:** NW-AreaI and NW-AreaII.
+
+download: [Google-drive](https://drive.google.com/drive/folders/1CDv3l4b54ph6uXcw-34d5PHzwNpmZvUi?usp=drive_link)
+
+<p align='center'>
+  <img src='figure/Natural willow_false.jpg' width="600px">
+  <img src='figure/Natural willow.jpg' width="400px">
+</p>
+
+
 ## Dataset
 
 The dataset directory should look like this:
